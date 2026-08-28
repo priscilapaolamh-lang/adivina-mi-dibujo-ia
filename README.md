@@ -71,7 +71,7 @@ Haz clic en el siguiente enlace para abrir el notebook directamente en Google Co
 
 [![Abrir en Colab] https://colab.research.google.com/drive/11Nj2sdBfvO4_POyZss-NPsi2eQW3_5ri?usp=sharing 
 
-> **Nota:** Reemplaza `tu-usuario` con tu nombre de usuario de GitHub.
+
 
 ---
 
