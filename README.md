@@ -69,7 +69,7 @@ CNN construida con TensorFlow/Keras:
 
 Haz clic en el siguiente enlace para abrir el notebook directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/adivina-mi-dibujo/blob/main/adivina_mi_dibujo.ipynb)
+[![Abrir en Colab] https://colab.research.google.com/drive/11Nj2sdBfvO4_POyZss-NPsi2eQW3_5ri?usp=sharing 
 
 > **Nota:** Reemplaza `tu-usuario` con tu nombre de usuario de GitHub.
 
