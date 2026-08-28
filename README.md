@@ -1,7 +1,7 @@
 
 ## Adivina mi Dibujo — Clasificador de Dibujos en Tiempo Real
 
-Proyecto final individual del curso de Inteligencia Artificial. Sistema que predice, mientras el usuario dibuja sobre un lienzo digital, a cuál de 5 categorías pertenece el dibujo, mostrando las 3 predicciones más probables junto con su nivel de confianza.
+Proyecto Inteligencia Artificial. Sistema que predice, mientras el usuario dibuja sobre un lienzo digital, a cuál de 5 categorías pertenece el dibujo, mostrando las 3 predicciones más probables junto con su nivel de confianza.
 
 ## Descripción del proyecto
 
@@ -52,6 +52,6 @@ CNN construida con TensorFlow/Keras:
 - Gradio (interfaz interactiva)
 - Google Colab (entorno de desarrollo y entrenamiento)
 
-## Autor
+## Instituto Tecnológico Universitario Rumiñahui
 
-Priscila Montenegro — Proyecto Final Individual, curso de Inteligencia Artificial (Modalidad Online)
+Priscila Montenegro — Proyecto Evaluación Parcial 2,  Inteligencia Artificial 
