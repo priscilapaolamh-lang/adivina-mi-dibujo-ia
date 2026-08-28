@@ -112,9 +112,8 @@ Ejecuta las celdas en orden, de arriba hacia abajo. Puedes hacerlo de dos formas
 ### Paso 4: Interactuar con el Sistema
 
 1. Una vez ejecutada la **Celda 11**, verás un enlace público como este:
-Running on public URL: https://xxxxxx.gradio.live
+Running on public URL: (https://bb252104976e8a99fd.gradio.live)
 
-text
 
 2. **Haz clic en ese enlace** para abrir la interfaz.
 
